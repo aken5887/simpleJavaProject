@@ -1,5 +1,9 @@
 package org.practice;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileWriter;
+
 public class StaticVariablePrc {
   static Integer staticNum;
 

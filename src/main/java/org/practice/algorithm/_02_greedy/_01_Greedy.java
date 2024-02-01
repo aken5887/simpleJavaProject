@@ -1,7 +1,6 @@
 package org.practice.algorithm._02_greedy;
 
 public class _01_Greedy {
-
   public static void main(String[] args) {
     int n = 1280;
     int count = 0;

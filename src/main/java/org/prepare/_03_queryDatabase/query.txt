@@ -1,0 +1,14 @@
+emp_no first_name last_name gender hire_date dept_name title max_salary 
+47291 Ulf Flexer M 2000-01-12 Human Resources Staff 48903 
+60134 Seshu Rathonyi F 2000-01-02 Customer Service Staff 59167 
+72329 Randi Luit F 2000-01-02 Human Resources Staff 40000 
+108201 Mariangiola Boreale M 2000-01-01 Production Senior Engineer 57615 
+205048 Ennio Alblas F 2000-01-06 Finance Senior Staff 75663 
+222965 Volkmar Perko F 2000-01-13 Human Resources Senior Staff 50276 
+226633 Xuejun Benzmuller F 2000-01-04 Marketing Staff 48413 
+227544 Shahab Demeyer M 2000-01-08 Human Resources Senior Staff 40000 
+422990 Jaana Verspoor F 2000-01-11 Development Engineer 40000 
+424445 Jeong Boreale M 2000-01-03 Development Engineer 40000 
+428377 Yucai Gerlach M 2000-01-23 Production Engineer 61367 
+463807 Bikash Covnot M 2000-01-28 Quality Management Engineer 52793 
+499553 Hideyuki Delgrande F 2000-01-22 Development Engineer 65611 
