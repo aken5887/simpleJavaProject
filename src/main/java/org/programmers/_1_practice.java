@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 import java.util.Arrays;
 import java.util.List;

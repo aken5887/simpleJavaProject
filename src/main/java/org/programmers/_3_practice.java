@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 /**
  * 소수 찾기

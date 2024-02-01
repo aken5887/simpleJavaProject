@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 import javax.print.attribute.standard.PresentationDirection;
 import java.util.*;

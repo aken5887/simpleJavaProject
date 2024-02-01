@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 import java.util.Comparator;
 import java.util.LinkedList;

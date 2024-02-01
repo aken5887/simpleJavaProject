@@ -1,6 +1,9 @@
 package org.backjun.bruteforce;
 
-public class SelfNumber {
+/**
+ * BOJ 4673 셀프 넘버
+ */
+public class Boj_4673_SelfNumber {
     public static void main(String[] args){
 
         boolean[] arr = new boolean[10001];

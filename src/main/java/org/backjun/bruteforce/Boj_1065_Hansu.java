@@ -2,7 +2,10 @@ package org.backjun.bruteforce;
 
 import java.util.Scanner;
 
-public class Hansu {
+/**
+ * 백준 1065 한수
+ */
+public class Boj_1065_Hansu {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         final int N = 1000;

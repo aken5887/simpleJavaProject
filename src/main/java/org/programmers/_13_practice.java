@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 public class _13_practice {
     public static void main(String[] args) {

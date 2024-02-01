@@ -1,7 +1,6 @@
-package org.practice.programmers;
+package org.programmers;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class _10_practice {
     public static void main(String[] args) {

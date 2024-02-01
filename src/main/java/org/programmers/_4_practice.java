@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 public class _4_practice {
     public int solution(int[][] jobs) {

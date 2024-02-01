@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 /**
  * 배열의 같은 위치의 합 배열 구하기

@@ -1,4 +1,4 @@
-package org.practice.programmers;
+package org.programmers;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
