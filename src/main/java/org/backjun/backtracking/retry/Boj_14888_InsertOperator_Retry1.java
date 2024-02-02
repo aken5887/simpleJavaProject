@@ -1,4 +1,4 @@
-package org.backjun.backtracking;
+package org.backjun.backtracking.retry;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 14888번 연산자 끼워넣기
  * 좀 더 간결하고 dfs를 활용한 버전 - 시간 80% 감소
  */
-public class Boj_14888_InsertOperator2 {
+public class Boj_14888_InsertOperator_Retry1 {
     static int MAX = Integer.MIN_VALUE;
     static int MIN = Integer.MAX_VALUE;
     static int[] numbers;                   // 숫자 집합
