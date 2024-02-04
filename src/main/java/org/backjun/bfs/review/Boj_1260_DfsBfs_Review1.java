@@ -1,11 +1,11 @@
-package org.backjun.bfs.retry;
+package org.backjun.bfs.review;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Boj_1260_DfsBfs_Retry1 {
+public class Boj_1260_DfsBfs_Review1 {
 
     static int N;   // 노드의 수
     static int M;   // 간선의 개수

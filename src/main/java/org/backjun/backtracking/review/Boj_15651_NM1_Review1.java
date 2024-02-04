@@ -1,10 +1,10 @@
-package org.backjun.backtracking.retry;
+package org.backjun.backtracking.review;
 
 import org.backjun.MyBufferedReader;
 
 import java.util.StringTokenizer;
 
-public class Boj_15651_NM1_Retry1 {
+public class Boj_15651_NM1_Review1 {
     private static int N; // 자연수 범위 N
     private static int M; // 길이 M
     private static int[] numbers; // 결과 값 저장 (길이 M)

@@ -1,4 +1,4 @@
-package org.backjun.bfs.retry;
+package org.backjun.bfs.review;
 
 import org.backjun.MyBufferedReader;
 
@@ -11,7 +11,7 @@ import java.util.*;
  * author         : choi
  * date           : 2/2/24
  */
-public class Boj_1260_DfsBfs_Retry2 {
+public class Boj_1260_DfsBfs_Review2 {
     private static int N;   // 노드의 개수
     private static int M;   // 간선의 개수
     private static int V;   // 시작점
